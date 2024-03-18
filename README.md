@@ -26,7 +26,7 @@ Use the `So_long.pdf` to get started.
 
 1. Clone the repo
    ```sh
-   git clone git@github.com:HishamEltayb/So_Long.git
+   git clone https://github.com/HishamEltayb/So_Long.git
    ```
 2. for MAC:
    ```js
